@@ -1,5 +1,7 @@
 # stego_01
-"Secure" BMP Stenography Server and Client, with a twist!
+
+"Secure" BMP Stenography Server and Client, with a twist!<br />
+
 About
 - BMP Steganography Software
 - Written by Anthony Garcia
