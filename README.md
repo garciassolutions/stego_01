@@ -28,12 +28,12 @@ over SSL to client
 - Changelog
 
 v3.0
-XOR and row jumble added.<br />
-Store ciphertext in color bytes and not padding.<br />
-Cleaned up unused variables and code logic. <br />
+. XOR and row jumble added.<br />
+. Store ciphertext in color bytes and not padding.<br />
+. Cleaned up unused variables and code logic. <br />
 v2.0
-SSL added for security.<br />
+. SSL added for security.<br />
 v1.0
-Added threading.<br />
-Added filesize > BLOCK_SIZE support.<br />
-Resolved image size issue.<br />
+. Added threading.<br />
+. Added filesize > BLOCK_SIZE support.<br />
+. Resolved image size issue.<br />
