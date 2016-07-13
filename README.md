@@ -24,13 +24,13 @@ Decoding methodology<br />
 over SSL to client
 
 - Changelog<br />
-v3.0<br />
-. XOR and row jumble added.<br />
-. Store ciphertext in color bytes and not padding.<br />
-. Cleaned up unused variables and code logic. <br />
-v2.0<br />
-. SSL added for security.<br />
-v1.0<br />
-. Added threading.<br />
-. Added filesize > BLOCK_SIZE support.<br />
-. Resolved image size issue.<br />
+. v3.0<br />
+ . XOR and row jumble added.<br />
+ . Store ciphertext in color bytes and not padding.<br />
+ . Cleaned up unused variables and code logic. <br />
+. v2.0<br />
+ . SSL added for security.<br />
+ . v1.0<br />
+ . Added threading.<br />
+ . Added filesize > BLOCK_SIZE support.<br />
+ . Resolved image size issue.<br />
