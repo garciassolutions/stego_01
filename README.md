@@ -20,10 +20,10 @@ Encoding methodology<br />
 Decoding methodology<br />
 - The clients ciphertext image is sent over SSL to server.
 - 8 byte rows are taken from the image, XOR decoding takes place, the rows are 'unjumbled' and reordered.
-- and the first 6 bytes stripped (with the exception of the last row) to obtain the RSA ciphertext -> RSA decryption occurs -> plaintext is sent
-over SSL to client
+- The first 6 bytes stripped (with the exception of the last row) to obtain the RSA ciphertext.
+- RSA decryption occurs and plaintext is sent over SSL to client
 
-- Changelog<br />
+Changelog<br />
  - v3.0<br />
   . XOR and row jumble added.<br />
   . Store ciphertext in color bytes and not padding.<br />
