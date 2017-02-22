@@ -4,7 +4,6 @@
 
 About<br />
 - BMP Steganography Software
-- Written by Anthony Garcia
  
 Project Goal<br />
 - To have a piece of software that could hide information securly within an image file, while also keeping the transfer of the
